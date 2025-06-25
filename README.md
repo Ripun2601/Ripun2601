@@ -64,14 +64,14 @@
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ripun2601&show_icons=true&theme=gruvbox)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ripun2601&show_icons=true&theme=tokyonight)
 
 </td>
 <td valign="top" width="50%">
 
 ### 📈 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ripun2601&layout=compact&theme=gruvbox)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ripun2601&layout=compact&theme=tokyonight)
 
 </td>
 </tr>
