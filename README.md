@@ -47,14 +47,14 @@
 
 ### 🛠️ Tools & Tech I Use
 
-| Category          | Tools / Languages                                                                   |
-|------------------|--------------------------------------------------------------------------------------|
-| **Languages**     | Python, SQL, C++, HTML, CSS, JavaScript                                              |
+| Category          | Tools / Languages                                                                    |
+|-------------------|--------------------------------------------------------------------------------------|
+| **Languages**     | Python, R, SQL, C++, HTML, CSS, JavaScript                                           |
 | **Libraries**     | Pandas, NumPy, scikit-learn, matplotlib, seaborn                                     |
-| **AI Tools**      | OpenAI API, LangChain                                                                |
+| **AI Tools**      | OpenAI API, LangChain(Learning)                                                      |
 | **Dashboards**    | Power BI, Tableau                                                                    |
 | **Environments**  | Jupyter Notebook, VS Code                                                            |
-| **Other**         | Git & GitHub, Excel, Streamlit (learning)                                            |
+| **Other**         | Git & GitHub, Excel, Streamlit                                                       |
 
 ---
 
